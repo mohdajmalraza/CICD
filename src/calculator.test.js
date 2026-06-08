@@ -1,4 +1,4 @@
-const { add, subtract, multiply, divide } = require("./calculator");
+const { add, subtract, multiply, divide } = require("./src/calculator");
 
 let passed = 0;
 let failed = 0;
